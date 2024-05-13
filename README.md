@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://64.media.tumblr.com/d7040436a74bed0b0c85b78c2ba85a09/tumblr_oa5vt2TL1F1qke11oo1_540.gifv))]
+[![MasterHead](https://64.media.tumblr.com/d7040436a74bed0b0c85b78c2ba85a09/tumblr_oa5vt2TL1F1qke11oo1_540.gifv)]
 <h1 align="center">Hi 👋, I'm Brajesh singh chouhan</h1>
 <h3 align="center">A passionate frontend developer from India,"Crafting pixel-perfect experiences, one line of code at a time."</h3>
 <img align="right" alt="Coding" width="400"src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/953d7441140599.579a1d8284556.gif">
