@@ -16,8 +16,8 @@
 - 📫 How to reach me **gajuchouhanbc@gmail.com**
 
 - ⚡ fact **Wake up to reality! Nothing ever goes as planned in this world. The longer you live, the more you realize that in this reality only pain, suffering, and futility exist.**
-   
-<img align="center" alt="Coding" width="auto"src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
+ 
+<img align="center" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/brajesh-singh-chouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brajesh-singh-chouhan" height="30" width="40" /></a>
